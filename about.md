@@ -5,9 +5,9 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  
+  I was a PhD researcher in Baylor College of Medicine from Jul 2012 to Aug 2017, mainly studying human Mendelian genetics. This site serves as a blog recording the academic stories during my PhD research.
+
+  
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
