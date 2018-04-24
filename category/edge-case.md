@@ -1,27 +1,17 @@
 ---
 layout: category
-title: Edge Case
+title: Textbook
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
+<p class="message">
+  
+This is an attempted textbook of human Mendelian genetics.
 
-```md
----
-layout: category
-title: My Category
----
-```
+For comments, please email me at <a href="mingchu.xu@alumni.bcm.edu">mingchu.xu@alumni.bcm.edu</a>.
 
-Or ...
+  
+</p>
 
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
-```
 
-Posts get listed below here.
+
+
