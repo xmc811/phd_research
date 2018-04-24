@@ -18,7 +18,7 @@ html {
   line-height: 1.5; }
   @media (min-width: 49rem) {
     html {
-      font-size: 1.25rem; } }
+      font-size: 1.1rem; } }
 
 body {
   -webkit-text-size-adjust: 100%;
@@ -489,7 +489,7 @@ pre {
 body {
   color: rgba(255, 255, 255, 0.75);
   background-color: #374459;
-  background-image: linear-gradient(to bottom, #45556f, #293343);
+  background-image: linear-gradient(to bottom, #3d4b62, #313d50);
   display: flex;
   flex-direction: column;
   min-width: 100vw;
@@ -499,9 +499,9 @@ body {
   flex: 0 0 auto;
   padding: 2rem; }
   #sidebar .site-title {
-    font-family: "Abril Fatface", serif;
-    font-weight: normal;
-    font-size: 1.25rem;
+    font-family: "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 1.1rem;
     color: rgba(255, 255, 255, 0.75);
     margin-top: 0;
     margin-bottom: 0.5rem; }
@@ -568,7 +568,7 @@ body {
 
   /* Undo mobile CSS */
   #sidebar, .home #sidebar {
-    width: 18rem;
+    width: 22rem;
     text-align: left; }
     #sidebar > *:last-child, .home #sidebar > *:last-child {
       margin-bottom: 0; }
@@ -751,7 +751,7 @@ button.disqus-load {
     border-radius: 300px;
     border-width: 1px;
     width: 60%;
-    max-width: 18rem;
+    max-width: 22rem;
     background: #fff;
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.16); }
     .pagination > a:hover {
