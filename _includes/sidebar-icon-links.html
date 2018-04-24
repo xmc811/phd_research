@@ -1,14 +1,19 @@
 <nav id="sidebar-icon-links">
   {% if site.github.repo %}
     <a id="github-link"
-       class="icon" title="Github Project" aria-label="Github Project"
+       class="icon" title="Github" aria-label="Github"
        href="{{ site.github.repo }}">
       {% include svg/github.svg %}
     </a>
     <a id="github-download-link"
-       class="icon" title="Download" aria-label="Download"
-       href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
-      {% include svg/download.svg %}
+       class="icon" title="LinkedIn" aria-label="LinkedIn"
+       href="https://www.linkedin.com/in/mingchu-xu-467a0946/">
+      {% include svg/linkedin.svg %}
+    </a>
+    <a id="github-download-link"
+       class="icon" title="Publications" aria-label="Publications"
+       href="https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/40264047/?sort=date&direction=descending">
+      {% include svg/pubmed.svg %}
     </a>
   {% endif %}
 
