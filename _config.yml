@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            A Journey of Genetics
 tagline:          ''
-description:      'An academic summary of my PhD career in BCM'
+description:      'This site serves as an archive of my PhD study in Baylor College of Medicine, mainly focusing on human Mendelian genetics.'
 url:              https://xmc811.github.io/phd_research/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

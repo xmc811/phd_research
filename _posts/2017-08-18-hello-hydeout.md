@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Hello Hydeout
+title: The Genetics Grind
 excerpt_separator:  <!--more-->
 ---
 
-Hydeout updates the original [Hyde](https://github.com/poole/hyde)
-theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
+*The Genetics Grind* is an awkward imitation of the well-known [*The PhD Grind*](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) by Philip J. Guo. Here, I set the post date as Aug 18th 2017, the last date of my PhD career for a ritual purpose, while I actually started writing these texts in April 2018.
 
-### Keep It Simple
+中文试验
+
+
+
+
+### 副标题
 
 In keeping with the original Hyde theme, Hydeout aims to keep the overall
 design lightweight and plugin-free. JavaScript is currently limited only
