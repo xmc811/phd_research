@@ -30,9 +30,9 @@ One important source for the accuracy of this archive is that I have kept all th
 <br>
 
 At 11:23 a.m., Jul 1st, 2013, I emailed my Curriculum Vitae (CV), which is due on the same day, to Ms. Judith Coleman (Judi), the coordinator of the graduate program. By that day, I was approaching the end of my first year in Baylor College of Medicine, and have finished most of the coursework. In the *current work in progress* section of the CV, I listed two projects:
-
-> - Identifying the pathogenic property of LRP6<sup>[1](#fn1)</sup> D735N mutation in patients with ocular and developmental defects <a name="fno1"></a>
-- Neuroprotective role of NMNAT1<sup>[2](#fn2)</sup> protein in mouse retina <a name="fno2"></a> 
+<a name="fno1"></a>
+> - Identifying the pathogenic property of LRP6<sup>[1](#fn1)</sup> D735N mutation in patients with ocular and developmental defects <a name="fno2"></a> 
+- Neuroprotective role of NMNAT1<sup>[2](#fn2)</sup> protein in mouse retina  
 
 These are indeed two important projects during my first year: the *LRP6* story started on Jan 2nd, 2013, exactly the first day of my rotation and the first business day of that year (if research can also be regarded as certain type of business), while I also started the NMNAT1 project as proposed by my mentor, Dr. Rui Chen (Rui) in late February. My performance in the former project probably contributed a lot to my final acceptance into the lab, and the latter represented one of Rui's **brilliant** ideas, which we later dubbed elixir (*Chinese*: 万能药).
 
