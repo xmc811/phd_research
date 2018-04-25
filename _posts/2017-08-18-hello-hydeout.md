@@ -4,7 +4,9 @@ title: The Genetics Grind
 excerpt_separator:  <!--more-->
 ---
 
-*The Genetics Grind* is an awkward imitation of the well-known [*The PhD Grind*](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) by Philip J. Guo. Here, I set the post date as Aug 18th 2017, the last date of my PhD career for a ritual purpose, while I actually started writing these texts in April 2018.
+*The Genetics Grind* is an awkward imitation of the well-known [*The PhD Grind*](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) by Philip J. Guo. Here, I set the post date as Aug 18th, 2017, the last date of my Ph.D. career for a ritual purpose, while I actually started writing these texts in April 2018.
+
+One important source for the accuracy of this archive is that I have kept all the email communications since Apr 25th, 2013. Unfortunately, I am not able to retrieve emails before that date, leading to the loss about how things unfolded during my three rotations terms, as well as the events occurred at the first two months I've spent in the lab. Nevertheless, I feel confident to present the remaining 95% here.      
 
 中文试验
 

@@ -545,7 +545,7 @@ body {
 .home #sidebar {
   text-align: center; }
   .home #sidebar .site-title {
-    font-size: 2.5rem;
+    font-size: 2.75rem;
     color: #ffffff; }
   .home #sidebar header ~ *, .home #sidebar p.lead {
     display: block; }
@@ -568,13 +568,13 @@ body {
 
   /* Undo mobile CSS */
   #sidebar, .home #sidebar {
-    width: 18rem;
+    width: 17rem;
     text-align: left; }
     #sidebar > *:last-child, .home #sidebar > *:last-child {
       margin-bottom: 0; }
 
   #sidebar .site-title {
-    font-size: 2.5rem; }
+    font-size: 2.75rem; }
     #sidebar .site-title a {
       color: #ffffff; }
     #sidebar .site-title .back-arrow {
@@ -751,7 +751,7 @@ button.disqus-load {
     border-radius: 300px;
     border-width: 1px;
     width: 60%;
-    max-width: 18rem;
+    max-width: 17rem;
     background: #fff;
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.16); }
     .pagination > a:hover {

@@ -1,13 +1,13 @@
 ---
 layout: category
-title: Textbook
+title: Lectures
 ---
 
 <p class="message">
   
-This is an attempted textbook of human Mendelian genetics.
+This is an attempted potpourri of primers and thoughts on human Mendelian genetics.
 
-For comments, please email me at <a href="mingchu.xu@alumni.bcm.edu">mingchu.xu@alumni.bcm.edu</a>.
+Comments are welcomed. Please email me at <a href="mingchu.xu@alumni.bcm.edu">mingchu.xu@alumni.bcm.edu</a>. Thank you!
 
   
 </p>

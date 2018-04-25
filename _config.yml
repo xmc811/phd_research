@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            A Journey of Genetics
+title:            "Archive: Genetics"
 tagline:          ''
-description:      'This site serves as an archive of my PhD study in Baylor College of Medicine, mainly focusing on human Mendelian genetics.'
+description:      'This site serves as an archive of my PhD research in Baylor College of Medicine, mainly focusing on human Mendelian genetics.'
 url:              https://xmc811.github.io/phd_research/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
