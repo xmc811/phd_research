@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Lectures
+title: Articles
 ---
 
 <p class="message">
