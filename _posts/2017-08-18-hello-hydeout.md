@@ -38,6 +38,6 @@ These are indeed two important projects during my first year: the *LRP6* story s
 
 
 <br>
-<font size="3"><a name="fn1">1</a>&nbsp;&nbsp;&nbsp;&nbsp; I didn't use the italic <i>LRP6</i> for human gene name in my original CV. This is just another piece of evidence showing my inexperience in genetics at that time.</font> 
+<font size="3"><a name="fn1">1</a>&nbsp;&nbsp;&nbsp;&nbsp; I didn't use the italic <i>LRP6</i> for human gene name in my original CV. This is just another piece of evidence showing my inexperience in the genetics field at that time.</font> 
 <font size="3"><br></font>
-<font size="3"><a name="fn2">2</a>&nbsp;&nbsp;&nbsp;&nbsp; Similarly, all-capital non-italic already indicates the human protein.</font>
+<font size="3"><a name="fn2">2</a>&nbsp;&nbsp;&nbsp;&nbsp; Similarly, all-capital non-italic already indicates the human/mouse protein.</font>
