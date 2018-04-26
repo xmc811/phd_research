@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Articles
+description: This is an attempted potpourri of primers and thoughts on human Mendelian genetics.
 ---
 
 <p class="message">

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Genetics Grind
+description: This is the main archive for the research of Mingchu Xu during his PhD, mainly on the Mendelian genetics of human retinal dystrophy.
 excerpt_separator:  <!--more-->
 ---
 Mingchu Xu

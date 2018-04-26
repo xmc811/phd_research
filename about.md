@@ -2,6 +2,8 @@
 layout: page
 title: About
 sidebar_link: true
+description: This is a short summary of the website on Mingchu Xu's PhD research
+
 ---
 
 <p class="message">
