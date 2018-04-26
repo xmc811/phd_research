@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            "Archive: Genetics"
-tagline:          ''
-description:      'This site serves as an archive of my PhD research in Baylor College of Medicine, mainly focusing on human Mendelian genetics.'
+tagline:          'Mingchu Xu'
+description:      'PhD research archive of Mingchu Xu in Baylor College of Medicine, mainly focusing on the genetic basis of Mendelian disorders.'
 url:              https://xmc811.github.io/phd_research/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
